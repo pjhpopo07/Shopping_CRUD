@@ -11,7 +11,7 @@ public class MainP {
 
     @GetMapping("/main")
     public String main() {
-        return "shopping";
+        return "main";
     }
 
 }
